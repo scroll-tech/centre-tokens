@@ -7,7 +7,7 @@ values stored in the contract.
 
 Note: Infura is a 3rd party provider.
 
-1. Got to [https://infura.io](https://infura.io) and click "Get Started For
+1. Go to [https://infura.io](https://infura.io) and click "Get Started For
    Free" to register an email with Infura.
 
 2. Click on the "Dashboards" icon at the top of the Infura homepage or go to
